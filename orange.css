@@ -1,0 +1,98 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 800px;
+       height: 100%;
+    }
+    .topimage{
+      width: 600px;
+      height: 600px;
+      border: 10px solid black;
+    }
+    .topimagenew{
+      width: 250px;
+      height:250px;
+      border: 10px solid black;
+    }
+    header {
+        background: orange ;
+        padding-left: 50px;
+        border: 10px solid black;
+        margin:0px 10px 0px 10px;
+        font-size: 30px ;
+        display: block;
+        font-family: 'Indie Flower', cursive;
+    }
+    nav {
+        float: left;
+        width: 100%;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 10px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+        font-family: 'Indie Flower', cursive;
+    }
+    a {
+        color: ;
+    }
+    .purple-background {
+      background-color: purple;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+        font-family: 'Indie Flower', cursive;
+    }
+    p{
+      font-size: 20px;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+        font-family: 'Indie Flower', cursive;
+}
+
+li {
+  font-size: 20px;
+}
+h2{
+  font-size: 50px;
+}
+.carrotimage{
+  width:250px;
+  height:250px;
+  border: 10px solid black;
+}
+.orange-img{
+  display: inline-block;
+}
